@@ -1,0 +1,22 @@
+{
+    "name": "tec-more/menu",
+    "description": "Tukecx menu",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tukecx",
+            "email": "support@tukecx.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tukecx\\Base\\Menu\\": "src"
+        },
+        "files": [
+
+        ]
+    }
+}

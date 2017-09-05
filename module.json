@@ -1,0 +1,8 @@
+{
+    "alias": "tukecx-menu",
+    "name": "Tukecx Menu",
+    "author": "Tukecx",
+    "description": "Tukecx menu management package.",
+    "namespace": "Tukecx\\Base\\Menu",
+    "autoload": "psr-4"
+}
